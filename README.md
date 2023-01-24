@@ -15,12 +15,12 @@ This project consist of Features and Resources like:
 ## Technology used 
 Flutter and Dart.
 
-For Local Storage :- Shared preferences
-For Api Call      :- http 
-To check Internet :- connectivity_plus
-Coding styple     :- MVP,MVC & Modular Folder Structure
-UI Design         :- Minimalistic with User Experience in foucs
-State Management  :- Set-state => Simple, Fast and Esay to use to build application.
+1. For Local Storage :- Shared preferences
+2. For Api Call      :- http 
+3. To check Internet :- connectivity_plus
+4. Coding styple     :- MVP,MVC & Modular Folder Structure
+5. UI Design         :- Minimalistic with User Experience in foucs 
+6. State Management  :- Set-state => Simple, Fast and Easy to use to build application.
 
 ## Features
 1. Authentication :- Sign Up, Login, Skip(Guest User) and Logout.
