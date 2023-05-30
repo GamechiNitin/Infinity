@@ -32,6 +32,15 @@ Flutter and Dart.
 
 
 
+## Authentication Screen
+![1](https://github.com/GamechiNitin/Infinity/assets/116989851/a5385089-02a1-443f-a5d8-1a6e1fe22f1b)
+## Product Screen
+![2](https://github.com/GamechiNitin/Infinity/assets/116989851/a18c4c47-ed5b-4458-a44c-ca1887370c6a)
+## Search Screen
+![3](https://github.com/GamechiNitin/Infinity/assets/116989851/96a1689a-5c7e-4791-8afd-10dae8d96bba)
+## Cart Screen
+![4](https://github.com/GamechiNitin/Infinity/assets/116989851/f9689254-57c2-4040-a992-390d2642126c)
+
 
 
 
